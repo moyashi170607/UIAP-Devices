@@ -56,11 +56,18 @@ It contains all or part of the information necessary to reproduce the applicatio
 
 - [“UIAPduino” の検索結果 | 創造技術実習 | とにかく、ものづくり！](https://robo164.com/?s=UIAPduino)
 - [inajob/CH32V003-GameConsole: Handheld RISC-V Mini Game Console with OLED Display](https://github.com/inajob/CH32V003-GameConsole)
-- [UIAPduino Pro Micro Sample Programs](https://github.com/pokibon3/UIAPduino)
+- [UIAPduino Sample Programs](https://github.com/pokibon3/UIAPduino)
   - [お安くなったUIAPduinoを使って、簡易スペアナとモールス信号のデコーダーを作ってみました。](https://x.com/pokibon/status/1973356650405961889)
 - [CH32V003でブロック崩しをつくった記録 ― ChatGPTがククトニアンと一緒にゲームを開発した7つのステップ ―](https://kuktonian.blogspot.com/2025/10/20251011.html)
 - [ADCTOUCH + USB-MIDI example for UIAPDuino](https://github.com/hsgw/midi_sampler)
   - Recommended to play with [MIDI Sampler](https://github.com/hsgw/midi_sampler)
+- MAX31855でこて先温度計
+  - [MAX31855でこて先温度計（設計編） - 3ギガ10センチ](https://norichiwo.hatenablog.com/entry/2025/11/13/231647)
+  - [MAX31855でこて先温度計（製作編） - 3ギガ10センチ](https://norichiwo.hatenablog.com/entry/2025/11/15/120858)
+- [moyashi170607/Misskey_Nostr_Notifier: UIAPduinoを用いたMisskey, Nostrの通知デバイス](https://github.com/moyashi170607/Misskey_Nostr_Notifier)
+- [UIAP KEYER](https://www.gejigeji.com/?page_id=1045)
+  - [UIAP Message Keyer (CH32V003) Ver1.2](https://github.com/pokibon3/uiap_message_keyer)
+- [UIAPduino Pro Microを使った格安マクロパッドをつくってみた【書きかけ】｜まーびい](https://note.com/marby/n/na17e2f9e2e09)
 
 ## Crafts / 作品
 
@@ -88,6 +95,7 @@ It may need to be categorized or organized.
 - [UIAPduinoで遊ぶ　#1｜じゃけさん](https://note.com/jake_nagoya_mh/n/n2b382907497f)
 - [つくろがや3でゲットしたおみやげを全部使う！ | ProtoPedia](https://protopedia.net/prototype/6719)
 - [UIAPduino Pro Micro CH32V003 V1.4 と OLED SSD1306 – ぱらめでぃうす](https://parame.mwj.jp/wp/archives/1290)
+- [VXQの無線運用、製作: UIAPduino Pro Micro CH32V003 V1.4を動作させてみました](https://coselec1500.blogspot.com/2025/12/uiapduino-pro-micro-ch32v003-v14.html)
 
 ## Media / メディア
 
@@ -101,3 +109,7 @@ It may not be appropriate to include it in this repository.
 
 - [UIAPduino Pro Micro CH32V003 «  Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2024/09/11/uiapduino-pro-micro-ch32v003/)
 - [Arduino開発ボード「UIAPduino Pro Micro CH32V003 V1.4」発売 | fabcross](https://web.archive.org/web/20250323012648/https://fabcross.jp/news/2024/20240919_UIAPduino.html)
+- [安いCH32V003開発ボードUIAPduino – inajobのいろいろレビュー](https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84ch32v003%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89uiapduino/)
+- [290円マイコン、はじめました。－ UIAPduinoで楽しむ電子工作の第一歩 －](https://techbookfest.org/product/sDGEXY3qqMqBZvXUbQGVTV)
+  - Buy now: [Melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=3346303) / [BOOTH](https://booth.pm/ja/items/7707666) / [架空ストア](https://store.retro-biz.com/i24085.html) / [Amazon](https://www.amazon.co.jp/dp/B0GJDMKQBL)
+- [290円のCH32V003開発ボード「UIAPduino Pro Micro」発売、教育向けに充実ドキュメント - FabScene（ファブシーン）](https://fabscene.com/new/news/uiapduino-pro-micro-ch32v003-v14-290yen/)
